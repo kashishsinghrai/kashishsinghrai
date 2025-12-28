@@ -11,7 +11,7 @@ A world-class, minimalist, and high-performance portfolio showcasing my journey 
 
 ## 🚀 Live Demo
 **🌐 [kashish-portfolio.vercel.app](https://kashish-portfolio.vercel.app)**  
-*(Replace with your real URL after deployment)*
+
 
 ---
 
