@@ -5,7 +5,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-white?style=for-the-badge&logo=vercel&logoColor=black)](https://vercel.com/)
 
-A world-class, minimalist, and high-performance portfolio showcasing my journey as a **Backend Developer**, **AI Enthusiast**, and **Published Author**. This project reflects a transition from high-level logic (B.Sc. Mathematics) to scalable software engineering (B.Tech CSE).
+
 
 ---
 
